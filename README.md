@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nanaasarehene
 - 👀 I’m interested in Mobile and Web development using React, React-Native, Java, Springboot and ....
+- My focus is in Blockchain Technology ...
 - 🌱 I’m currently learning and working so hard to put myself up there
 - 💞️ I’m looking to collaborate on any project to enhance my skills and knowledge in any field
 - 📫 How to reach me dev.nanaasarehene@gmail.com  or +233 556 181 887
